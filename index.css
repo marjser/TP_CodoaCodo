@@ -1,0 +1,53 @@
+header {
+    background-color: rgb(51, 58, 64);
+}
+
+.nav-item {
+ color: ghostwhite0;
+}
+
+
+.container-fluid {
+    position: relative;
+}
+
+
+#fotoseccion1 {
+    opacity: 1;
+}
+
+.center {
+    position: absolute;
+    text-align: right;
+}
+
+h3 {
+    text-align: center;
+}
+
+
+
+#boton-form{
+    background-color: #81c53d ;
+}
+
+#span-java {
+    background-color: rgba(47,169,186,255);
+}
+
+.badge {
+    background-color: #6610f2;
+}
+
+
+footer {
+    background-image: linear-gradient(to right, #1d3947 , #1e5372);
+}
+
+footer {
+    color: white;
+}
+
+#BG {
+    background: url('https://mdbootstrap.com/img/new/fluid/nature/012.jpg');
+}
